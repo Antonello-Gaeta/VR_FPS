@@ -1,0 +1,589 @@
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/TandP/portal/Textures/T_PortalTexture2.uasset" 0
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/TandP/portal/Materials/M_MaterialPPortal2.uasset" 1
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/Particles/P_ExitPortal.uasset" 2
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/TandP/portal/Textures/T_PortalTexture5.uasset" 3
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/TandP/portal/Textures/T_PortalTexture4.uasset" 4
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/TandP/portal/Materials/M_MaterialSmoke.uasset" 5
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/TandP/portal/Textures/T_PortalTexture.uasset" 6
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/TandP/portal/Materials/M_MaterialPPortal3.uasset" 7
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 8
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 9
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/TandP/portal/Materials/M_MaterialPPortal.uasset" 10
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/Particles/P_Portal.uasset" 11
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/TandP/Teleportation/Textures/T_TeleportationP.uasset" 12
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/TandP/Teleportation/Materials/M_MaterialPTeleportation2.uasset" 13
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/TandP/Teleportation/Materials/M_MaterialPTeleportation.uasset" 14
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/Particles/P_Teleportation.uasset" 15
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Textures/T_Dust_Particle_D.uasset" 16
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 17
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/P_Ambient_Dust.uasset" 18
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 19
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Textures/T_Smoke_SubUV.uasset" 20
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 21
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 22
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/Materials/M_radial_ramp.uasset" 23
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/Materials/m_flare_01.uasset" 24
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Textures/T_Explosion_SubUV.uasset" 25
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 26
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Textures/T_Burst_M.uasset" 27
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/Materials/M_Burst.uasset" 28
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/P_Explosion.uasset" 29
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 30
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Textures/T_Water_N.uasset" 31
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 32
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Textures/T_Fire_Tiled_D.uasset" 33
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Textures/T_Fire_SubUV.uasset" 34
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 35
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/P_Fire.uasset" 36
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/P_Smoke.uasset" 37
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Textures/T_Spark_Core.uasset" 38
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/Materials/M_Spark.uasset" 39
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/P_Sparks.uasset" 40
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/StarterContent/Particles/P_Steam_Lit.uasset" 41
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Animation/Hand/Ecc/HandIdleAnim_PhysicsAsset.uasset" 42
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/FloorA/FloorA_Roughness.uasset" 43
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/FloorA/FloorA_Normal.uasset" 44
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/FloorA/FloorA_Diffuse.uasset" 45
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/M_1001_Normal.uasset" 46
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Hand/SoloHand_Hand_OcclusionRoughnessMetallic.uasset" 47
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Hand/SoloHand_Hand_BaseColor.uasset" 48
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/M_1001_BaseColor.uasset" 49
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/Other/M_PBR_Pack2Side.uasset" 50
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_HandX.uasset" 51
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/hand/Hand_Skeleton.uasset" 52
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Animation/Hand/Ecc/HandIdleAnim.uasset" 53
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Animation/Hand/Ecc/HandShootAnim_PhysicsAsset.uasset" 54
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Animation/Hand/Ecc/HandShootAnim.uasset" 55
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Animation/MapTutorial/Anim_Panel02.uasset" 56
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Animation/MapTutorial/Anim_Panel03.uasset" 57
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Animation/MapTutorial/Anim_Panel05.uasset" 58
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Animation/MapTutorial/Anim_Panel04.uasset" 59
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Animation/MapTutorial/Anim_Panel_04.uasset" 60
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Animation/MapTutorial/CylAmmosUp.uasset" 61
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Light/Light_Vetro_L.uasset" 62
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Light/Light_Led_L.uasset" 63
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Light/Light_Base_L.uasset" 64
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/M_LightVetro.uasset" 65
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/M_LightBase.uasset" 66
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/Other/M_LightLed.uasset" 67
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/M_LightLed.uasset" 68
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/M_LightLed_Green.uasset" 69
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/Enverioment/BP_LightG.uasset" 70
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/M_LightLed_Yellow.uasset" 71
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/Enverioment/BP_LightY.uasset" 72
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_GunTrasparent.uasset" 73
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 74
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 75
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 76
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 77
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/Gun/Gun_VetroHG.uasset" 78
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/Gun/Gun_LedHG.uasset" 79
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/Gun/Gun_GrillettoHG.uasset" 80
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/Gun/Gun_BaseHG.uasset" 81
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/CylAmmos/BP_GunT.uasset" 82
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/Gun/BP_GunT.uasset" 83
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/UI/DrommeDiscoClub_P.uasset" 84
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/UI/arrow-right.uasset" 85
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/UI/UI_Intro/UI_Intro.uasset" 86
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/UI/UI_Intro/BP_UI_Intro.uasset" 87
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/UI/BP_UI_Intro.uasset" 88
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/UI/Rotazione.uasset" 89
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/UI/quest-touch.uasset" 90
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/UI/JoystickX.uasset" 91
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/UI/Indicatore.uasset" 92
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/UI/UI_Tutorial/UI_Tutorial.uasset" 93
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/UI/UI_Tutorial/BP_UI_Tuorial.uasset" 94
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/UI/BP_UI_Tuorial.uasset" 95
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/UI/UI_Game/UI_Menu.uasset" 96
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Gen/BordoPlaneGen_BordoPlaneGen.uasset" 97
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/BordoPlaneGen_BordoPlaneGen.uasset" 98
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/IronB/IronB_Diffuse.uasset" 99
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/IronB/IronB_Roughness.uasset" 100
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/IronB/IronB_Normal.uasset" 101
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/IronB/IronB_Metalness.uasset" 102
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/FloorA/FloorA_Metalness.uasset" 103
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/Other/M_PBR.uasset" 104
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/Tutorial/M_CubeGEn.uasset" 105
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Gen/CubeGen_CubeGen.uasset" 106
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/CubeGen_CubeGen.uasset" 107
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Gen/PlaneGen_PlaneGen.uasset" 108
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/hand/CylHand_Skeleton.uasset" 109
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Meshes/CubeMaterial.uasset" 110
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 111
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Meshes/TemplateFloor.uasset" 112
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/Other/M_Base.uasset" 113
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/M_Base.uasset" 114
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/Intro/M_FloorPlayer.uasset" 115
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/Intro/M_FlooePlayer.uasset" 116
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/M_FlooePlayer.uasset" 117
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/Intro/M_FloorA.uasset" 118
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/M_FloorA.uasset" 119
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/CopperP/CopperP_Roughness.uasset" 120
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/Intro/M_FloorB.uasset" 121
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/M_FloorB.uasset" 122
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/RustedMetal/RustedMetal_Normal.uasset" 123
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/RustedMetal/RustedMetal_Roughness.uasset" 124
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/RustedMetal/RustedMetal_Diffuse.uasset" 125
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/RustedMetal/RustedMetal_Metalness.uasset" 126
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/Intro/M_FloorC.uasset" 127
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/M_FloorC.uasset" 128
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/M_LightLedG.uasset" 129
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/M_LightLedG_Inst.uasset" 130
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/Intro/M_Glass.uasset" 131
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/Tutorial/M_FloorPlayerT.uasset" 132
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_Base.uasset" 133
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/Gun/M_Base.uasset" 134
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_CubeGen.uasset" 135
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/Gun/M_CubeGen.uasset" 136
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/CylAmmos/CylAmmos_CylAmmos_Normal.uasset" 137
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_CylAmmos.uasset" 138
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/Gun/M_CylAmmos.uasset" 139
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Gun/SoloGun_HandGun_OcclusionRoughnessMetallic.uasset" 140
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Gun/SoloGun_HandGun_Normal.uasset" 141
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Gun/SoloGun_HandGun_BaseColor.uasset" 142
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_Gun.uasset" 143
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/Gun/M_Gun.uasset" 144
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_GunLed.uasset" 145
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/Gun/M_GunLed.uasset" 146
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/Gun/M_GunTrasparent.uasset" 147
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_GunVetro.uasset" 148
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/Gun/M_GunVetro.uasset" 149
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/Gun/M_MunizioneHGLed.uasset" 150
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_10_AlbedoTransparency.uasset" 151
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/MunizioneHG_LedMunzioneHG_OcclusionRoughnessMetallic.uasset" 152
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/MunizioneHG_LedMunzioneHG_Normal.uasset" 153
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_MunizioneLedHG/M_MunizioneLedHG_10.uasset" 154
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_MunizioneLedHG.uasset" 155
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/CylAmmos/CylAmmos_CylAmmos_BaseColor.uasset" 156
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/CylAmmos/CylAmmos_CylAmmos_OcclusionRoughnessMetallic.uasset" 157
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/CopperP/CopperP_AO.uasset" 158
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/CopperP/CopperP_Metalness.uasset" 159
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/CopperP/CopperP_Normal.uasset" 160
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/FloorA/FloorA_AO.uasset" 161
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/FloorB/FloorB_AO.uasset" 162
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/FloorC/FloorC_AO.uasset" 163
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/FloorC/FloorC_Diffuse.uasset" 164
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/FloorC/FloorC_Metalness.uasset" 165
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/FloorC/FloorC_Normal.uasset" 166
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/FloorC/FloorC_Roughness.uasset" 167
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/Iron/Iron_AO.uasset" 168
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/Iron/Iron_Diffuse.uasset" 169
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/Iron/Iron_Diffuse_2.uasset" 170
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/Iron/Iron_Metalness.uasset" 171
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/Iron/Iron_Normal.uasset" 172
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/Iron/Iron_Roughness.uasset" 173
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/IronB/IronB_AO.uasset" 174
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/RustedMetal/RustedMetal_AO.uasset" 175
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/RustedMetalB/RustedMetalB_AO.uasset" 176
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/RustedMetalB/RustedMetalB_Diffuse.uasset" 177
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/RustedMetalB/RustedMetalB_Metalness.uasset" 178
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/RustedMetalB/RustedMetalB_Normal.uasset" 179
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/RustedMetalB/RustedMetalB_Roughness.uasset" 180
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/RustedMetalC/RustedMetalC_AO.uasset" 181
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/Silver/M_Silver_BaseColor.uasset" 182
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/Silver/M_Silver_Normal.uasset" 183
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/Silver/M_Silver_OcclusionRoughnessMetallic.uasset" 184
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/WallConcrete/WallConcrete_AO.uasset" 185
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/WallConcrete/WallConcrete_Diffuse.uasset" 186
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/WallConcrete/WallConcrete_Metalness.uasset" 187
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/WallConcrete/WallConcrete_Normal.uasset" 188
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/WallConcrete/WallConcrete_Roughness.uasset" 189
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Hand/M_1001_BaseColor.uasset" 190
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Hand/M_1001_Normal.uasset" 191
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/MunizioneHG_LedMunzioneHG_BaseColor.uasset" 192
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_0_MetallicSmoothness.uasset" 193
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_0_Normal.uasset" 194
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_10_MetallicSmoothness.uasset" 195
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_10_Normal.uasset" 196
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_1_MetallicSmoothness.uasset" 197
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_1_Normal.uasset" 198
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_2_MetallicSmoothness.uasset" 199
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_2_Normal.uasset" 200
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_3_MetallicSmoothness.uasset" 201
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_3_Normal.uasset" 202
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_4_MetallicSmoothness.uasset" 203
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_4_Normal.uasset" 204
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_5_MetallicSmoothness.uasset" 205
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_5_Normal.uasset" 206
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_6_MetallicSmoothness.uasset" 207
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_6_Normal.uasset" 208
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_7_MetallicSmoothness.uasset" 209
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_7_Normal.uasset" 210
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_8_MetallicSmoothness.uasset" 211
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_8_Normal.uasset" 212
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_9_MetallicSmoothness.uasset" 213
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_9_Normal.uasset" 214
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/UI/basic-gunsight_98155.uasset" 215
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 216
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 217
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 218
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 219
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 220
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 221
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 222
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Meshes/BeamMesh.uasset" 223
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Meshes/BeaconDirection.uasset" 224
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Meshes/1x1_cube.uasset" 225
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/hand/Hand_PhysicsAsset.uasset" 226
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/hand/Hand.uasset" 227
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/hand/CylHand.uasset" 228
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 229
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 230
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 231
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Materials/TeleportMCP.uasset" 232
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 233
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 234
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 235
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 236
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 237
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 238
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_CylLed.uasset" 239
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 240
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 241
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 242
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 243
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 244
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 245
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 246
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 247
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/Gun/Gun_LedMunizioneHG.uasset" 248
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/Gun/Gun_BaseMunizioneHG.uasset" 249
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_9_AlbedoTransparency.uasset" 250
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_MunizioneLedHG/M_MunizioneLedHG_9.uasset" 251
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_8_AlbedoTransparency.uasset" 252
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_MunizioneLedHG/M_MunizioneLedHG_8.uasset" 253
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_7_AlbedoTransparency.uasset" 254
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_MunizioneLedHG/M_MunizioneLedHG_7.uasset" 255
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_6_AlbedoTransparency.uasset" 256
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_MunizioneLedHG/M_MunizioneLedHG_6.uasset" 257
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_5_AlbedoTransparency.uasset" 258
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_MunizioneLedHG/M_MunizioneLedHG_5.uasset" 259
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_4_AlbedoTransparency.uasset" 260
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_MunizioneLedHG/M_MunizioneLedHG_4.uasset" 261
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_3_AlbedoTransparency.uasset" 262
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_MunizioneLedHG/M_MunizioneLedHG_3.uasset" 263
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_2_AlbedoTransparency.uasset" 264
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_MunizioneLedHG/M_MunizioneLedHG_2.uasset" 265
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_1_AlbedoTransparency.uasset" 266
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_MunizioneLedHG/M_MunizioneLedHG_1.uasset" 267
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/Led/MunizioneHG_LedMunzioneHG_0_AlbedoTransparency.uasset" 268
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_MunizioneLedHG/M_MunizioneLedHG_0.uasset" 269
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/MunizioneHG_BaseMunzioneHG_OcclusionRoughnessMetallic.uasset" 270
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/MunizioneHG_BaseMunzioneHG_Normal.uasset" 271
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MunizioneHG/MunizioneHG_BaseMunzioneHG_BaseColor.uasset" 272
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_MunizioneHG.uasset" 273
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/CylAmmos/BP_MunizioneHG.uasset" 274
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 275
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/Gun/Gun_LaserHG.uasset" 276
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/LaserHG/LaserHG_LaserHG_OcclusionRoughnessMetallic.uasset" 277
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/LaserHG/LaserHG_LaserHG_Emissive.uasset" 278
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/LaserHG/LaserHG_LaserHG_BaseColor.uasset" 279
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_LaserHG.uasset" 280
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/Gun/M_LaserHG_Led_.uasset" 281
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/CylAmmos/BP_LaserHG.uasset" 282
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/BP_Intro/BP_MotionControllerIntroSX.uasset" 283
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/BP_Intro/BP_MotionControllerIntroDX.uasset" 284
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 285
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 286
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Animation/Hand/HandShootAnim_Anim.uasset" 287
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Animation/Hand/HandIdleAnim_Anim.uasset" 288
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Animation/Hand/HandBlendSpace.uasset" 289
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Animation/Hand/Anim_Hand.uasset" 290
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/Gun/mirino_Led.uasset" 291
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/Gun/Gun_MirinoHG.uasset" 292
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MirinoHG/MirinoHG_MirinoHG_OcclusionRoughnessMetallic.uasset" 293
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MirinoHG/MirinoHG_MirinoHG_Normal.uasset" 294
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/MirinoHG/MirinoHG_MirinoHG_BaseColor.uasset" 295
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/HandGun/M_MirinoHG.uasset" 296
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/Gun/M_MirinoHG_T.uasset" 297
+"../../../Engine/Content/BasicShapes/Plane.uasset" 298
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/CylAmmos/BP_MirinoHG.uasset" 299
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/CylAmmos/BP_Bullet.uasset" 300
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 301
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/BP_GameGen/BP_MotionController.uasset" 302
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 303
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 304
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Blueprints/GameModeIntro.uasset" 305
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Blueprints/MotionControllerPawnIntro.uasset" 306
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Blueprints/GameMode.uasset" 307
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Blueprints/MyGameMode.uasset" 308
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 309
+"../../../Engine/Content/BasicShapes/Cone.uasset" 310
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 311
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 312
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 313
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 314
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 315
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 316
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 317
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 318
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 319
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 320
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 321
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 322
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 323
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 324
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 325
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 326
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 327
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 328
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 329
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 330
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 331
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 332
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 333
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 334
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 335
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 336
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 337
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 338
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 339
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 340
+"../../../Engine/Content/EditorResources/S_Note.uasset" 341
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 342
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 343
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 344
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 345
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 346
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 347
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 348
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 349
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 350
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 351
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 352
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 353
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 354
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 355
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 356
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 357
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 358
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 359
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 360
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 361
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 362
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 363
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 364
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 365
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 366
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 367
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 368
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 369
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 370
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 371
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 372
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 373
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 374
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 375
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 376
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 377
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 378
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 379
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 380
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 381
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 382
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 383
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 384
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 385
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 386
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 387
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 388
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 389
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 390
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 391
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 392
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 393
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 394
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 395
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 396
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 397
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 398
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 399
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 400
+"../../../Engine/Content/EngineResources/Black.uasset" 401
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 402
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 403
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 404
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 405
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 406
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 407
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 408
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 409
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 410
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 411
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 412
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 413
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 414
+"../../../Engine/Content/EngineSounds/Master.uasset" 415
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 416
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 417
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 418
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 419
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 420
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 421
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 422
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 423
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 424
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 425
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 426
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 427
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 428
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 429
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 430
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 431
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 432
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 433
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 434
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 435
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 436
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 437
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 438
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 439
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 440
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 441
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 442
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 443
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 444
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 445
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 446
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 447
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 448
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 449
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 450
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 451
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 452
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part2.uasset" 453
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part3.uasset" 454
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 455
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 456
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 457
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 458
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 459
+"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 460
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 461
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 462
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 463
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 464
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 465
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 466
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 467
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 468
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 469
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 470
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 471
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 472
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 473
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 474
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 475
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 476
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 477
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 478
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 479
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 480
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 481
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 482
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 483
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 484
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 485
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 486
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 487
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 488
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 489
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 490
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 491
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 492
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 493
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 494
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 495
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 496
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 497
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 498
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Intro/lambert1.uasset" 499
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Intro/IntroBasePanel.uasset" 500
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Intro/Intro_Walls.uasset" 501
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Intro/M_Led.uasset" 502
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Intro/Intro_LedWalls.uasset" 503
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Intro/Intro_LedCeiling.uasset" 504
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Intro/Intro_Floor.uasset" 505
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Intro/Intro_EdgeFloorPlayer.uasset" 506
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Intro/Intro_Column.uasset" 507
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Intro/Intro_Ceiling.uasset" 508
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Intro/Intro_Beam.uasset" 509
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/FloorB/FloorB_Roughness.uasset" 510
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/FloorB/FloorB_Normal.uasset" 511
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/FloorB/FloorB_Metalness.uasset" 512
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/FloorB/FloorB_Diffuse.uasset" 513
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/Intro/M_Wall.uasset" 514
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/RustedMetalC/RustedMetalC_Roughness.uasset" 515
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/RustedMetalC/RustedMetalC_Diffuse.uasset" 516
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/RustedMetalC/RustedMetalC_Metalness.uasset" 517
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/RustedMetalC/RustedMetalC_Normal.uasset" 518
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/Intro/M_LedWalls.uasset" 519
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/CopperP/CopperP_Diffuse.uasset" 520
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/Intro/M_Column.uasset" 521
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/Intro/M_Ceiling.uasset" 522
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/00_Intro/Bearn/Beam_Bearn_OcclusionRoughnessMetallic.uasset" 523
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/00_Intro/Bearn/Beam_Bearn_Normal.uasset" 524
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Textures/Enverioment/00_Intro/Bearn/Beam_Bearn_BaseColor.uasset" 525
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/Other/M_PBR_Pack.uasset" 526
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/Intro/M_Beam.uasset" 527
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/Intro/M_BasePanel.uasset" 528
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Intro/Intro_FloorPlayer.uasset" 529
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Maps/Gen/Intro_BuiltData.uasset" 530
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/BP_Intro/BP_PawnIntro.uasset" 531
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Maps/Gen/Intro.umap" 532
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Gen/VR-CONTROL.uasset" 533
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Enverioment/Gen/AG.uasset" 534
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Maps/Gen/StartMap_BuiltData.uasset" 535
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Maps/Gen/StartMap.umap" 536
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/TandP/Teleportation/Materials/M_MaterialTeleportation2.uasset" 537
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/TandP/Teleportation/Textures/T_Teleportation.uasset" 538
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/TandP/Teleportation/Materials/M_MaterialTeleportation.uasset" 539
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/00_Ecc/Particles/SM_Teleportation.uasset" 540
+"../../../Engine/Content/BasicShapes/Cube.uasset" 541
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Materials/enverioment/M_LightLed_Blu.uasset" 542
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Maps/Gen/Tutorial_BuiltData.uasset" 543
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/CylAmmos/CylAmmos_CylBasso.uasset" 544
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/HandGun/CylAmmos/CylAmmos_CylAlto.uasset" 545
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/CylAmmos/BP_MunizioneHGX.uasset" 546
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/CylAmmos/CylAmmosMunizioneHGX.uasset" 547
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/CylAmmos/CylAmmosMirinoHG.uasset" 548
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/CylAmmos/BP_LaserHGX.uasset" 549
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/CylAmmos/CylAmmosLaserHG.uasset" 550
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/BP_GameGen/BP_Pawn.uasset" 551
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Maps/Gen/Tutorial.umap" 552
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 553
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 554
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 555
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 556
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 557
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Maps/LevelsGame/Level_01_BuiltData.uasset" 558
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 559
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 560
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 561
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 562
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 563
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Maps/LevelsGame/Level_01.umap" 564
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/BP/UI/UI_Intro.uasset" 565
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Maps/Test/TestUI.umap" 566
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset" 567
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset" 568
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Materials/M_BaseMaterial.uasset" 569
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset" 570
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset" 571
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/Geometry/Meshes/1M_Cube.uasset" 572
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" 573
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset" 574
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 575
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Materials/MI_SmallCubes.uasset" 576
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" 577
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" 578
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 579
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset" 580
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Materials/GenericHMDMaterial.uasset" 581
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Meshes/GenericHMD.uasset" 582
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 583
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 584
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 585
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 586
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 587
+"../../../../../Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Content/VirtualRealityBP/Maps/StartupMap.umap" 588
