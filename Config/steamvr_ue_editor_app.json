@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.vr_control-14830424.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/Yotyp/P_App/Unreal_Project/Unreal_Project/VR_FPS 4.26/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "VR_CONTROL-14830424 [UE Editor]"
+				}
+			}
+		}
+	]
+}
