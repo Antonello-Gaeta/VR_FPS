@@ -30,28 +30,6 @@
 					}
 				},
 				{
-					"mode": "trigger",
-					"path": "/user/hand/left/input/grip",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/GrabLeft"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/right/input/grip",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/GrabRight"
-						}
-					}
-				},
-				{
 					"mode": "button",
 					"path": "/user/hand/right/input/a",
 					"inputs":
@@ -173,5 +151,5 @@
 			]
 		}
 	},
-	"description": ""
+	"description": "VR_CONTROL-14830424"
 }
